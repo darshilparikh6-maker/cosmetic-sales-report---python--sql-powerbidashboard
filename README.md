@@ -1,5 +1,5 @@
 # cosmetic-sales-report---python--sql-powerbidashboard
-osmetic Shop Sales Analysis Dashboard
+Cosmetic Shop Sales Analysis Dashboard
 Project Overview
 
 This project focuses on analyzing cosmetic shop sales data to identify customer behavior, sales performance, and business growth opportunities. The analysis was performed using Excel, Python, SQL, and Power BI to transform raw data into meaningful business insights.
@@ -39,10 +39,7 @@ Highlighted opportunities to improve profitability and customer engagement.
 
 **Tools Used**
 Excel
-Python (Pandas, NumPy)
+Python (Pandas)
 SQL
 Power BI
-Excel
-Python (Pandas, NumPy)
-SQL
-Power BI
+
